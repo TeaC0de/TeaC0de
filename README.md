@@ -31,11 +31,11 @@ Hi there! I'm **TeaC0de**, a beginner coder with a love for all things creative 
 ## ✨ My Projects
 
 ### 🚀 Finished Projects
-- [Profile Customization](#) 🧚‍♀️: This README is completed and showcases my coding style.
+- [Profile Customization](https://github.com/TeaC0de/TeaC0de) 🧚‍♀️: This README is completed and showcases my coding style.
 
 ### 🔧 In Progress
 - [Tinkerbell Cursor](#) 🧚‍♀️: Custom interactive web cursor with animation. Currently being developed.
-- [Blog](#) 📝: A space for sharing my thoughts, insights, and learnings. The layout and details are still in planning. Stay tuned!
+
 
 ### 📅 Planned Projects
 - [Python Game](#) 🎮: Selecting and working on fun Python game projects from the community. Expected to start soon.
@@ -43,7 +43,7 @@ Hi there! I'm **TeaC0de**, a beginner coder with a love for all things creative 
 ---
 
 ## ✨ Blog
-- **In Progress**: A space for sharing my thoughts, insights, and learnings. The layout and details are still in planning. Stay tuned!
+- **In Planning**: A space for sharing my thoughts, insights, and learnings. The layout and details are still in the planning phase. Stay tuned!
 
 ---
 
