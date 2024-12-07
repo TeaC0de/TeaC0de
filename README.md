@@ -47,7 +47,11 @@ Hi there! I'm **TeaC0de**, a beginner coder with a love for all things creative 
 ---
 
 ## ✨ Blog
-- **In Planning**: A space for sharing my thoughts, insights, and learnings. The layout and details are still in the planning phase. Stay tuned!
+- **Current Status**: Laid out the basic structure of the blog with HTML. Styling and functionality are being added gradually.
+- **Upcoming Content**: Writing about the learning process, coding challenges, and web development tips.
+- **Next Steps**: Adding CSS for design, integrating JavaScript for interactivity, and enhancing with custom features.
+- **Vision**: A personal corner to document my projects and insights, designed to keep me growing and motivated on my coding journey.
+- **Visit My Blog**: [TeaC0de's Blog](https://teac0de.github.io/TinkerCode)
 
 ---
 
