@@ -13,9 +13,11 @@ Hi there! I'm **TeaC0de**, a beginner coder with a love for all things creative 
 ---
 
 ## 📚 Learning Path
-- **Current Learning**: Focusing on Python programming to build strong foundational skills.
-- **Next Goal**: Starting a front-end development course to master HTML, CSS, and JavaScript.
-- **Future Plans**: Enrolling in a full-stack development course to learn both front-end and back-end technologies and become a versatile developer.
+- **Current Focus**: Focusing on Python programming to build strong foundational skills.
+- **Previous Milestones**: 
+  - 📘 **HTML, CSS, and JavaScript**: Completed basic learning to understand structure, styling, and interactivity in web development.
+- **Next Goal**: Deepening knowledge in Python, HTML, CSS, and JavaScript to enhance skills and create more complex projects.
+- **Future Plans**: Mastering full-stack development for a complete skill set in building interactive and efficient applications.
 
 ---
 
