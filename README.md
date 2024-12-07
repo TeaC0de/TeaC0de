@@ -2,6 +2,8 @@
 
 Hi there! I'm **TeaC0de**, a beginner coder with a love for all things creative and magical. Here's a little about me:
 
+- 🌐 **Visit My Blog**: [TeaC0de's Blog](https://teac0de.github.io/TinkerCode)
+
 ---
 
 ## 🐾 About Me
