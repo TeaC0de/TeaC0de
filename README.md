@@ -2,7 +2,7 @@
 
 Hi there! I'm **TeaC0de**, a beginner coder with a love for all things creative and magical. Here's a little about me:
 
-- 🌐 **Visit My Blog**: [TeaC0de's Blog](https://teac0de.github.io/TinkerCode)
+- 🌐 **Visit My Blog**: <a href="https://teac0de.github.io/TinkerCode" target="_blank">TinkerCode</a>
 
 ---
 
@@ -51,8 +51,7 @@ Hi there! I'm **TeaC0de**, a beginner coder with a love for all things creative 
 - **Upcoming Content**: Writing about the learning process, coding challenges, and web development tips.
 - **Next Steps**: Adding CSS for design, integrating JavaScript for interactivity, and enhancing with custom features.
 - **Vision**: A personal corner to document my projects and insights, designed to keep me growing and motivated on my coding journey.
-- **Visit My Blog**: [TeaC0de's Blog](https://teac0de.github.io/TinkerCode)
-
+- **Visit My Blog**: <a href="https://teac0de.github.io/TinkerCode" target="_blank">TinkerCode</a> 🪄
 ---
 
 ## 📊 My GitHub Stats
