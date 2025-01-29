@@ -28,8 +28,7 @@ Hi there! I'm Dorothea, also known as **TeaC0de**, a beginner coder blending cre
 ---
 
 ## 🌐 Explore More & Connect
-- ✨ Check out my [Blog](#https://teac0de.github.io/TinkerCode/
-), where I share my coding journey, code snippets, and magical projects!
+- ✨ Check out my [Blog](https://teac0de.github.io/TinkerCode/), where I share my coding journey, code snippets, and magical projects!
 - 🌟 Explore my [Portfolio](#), where I dive into the details of my projects and the creative process behind them.
 - 📧 [Email Me](mailto:teac0dezone@gmail.com) - Let’s create something magical together! Reach out and let’s bring ideas to life! ✨
 
