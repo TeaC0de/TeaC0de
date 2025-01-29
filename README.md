@@ -35,7 +35,7 @@ Hi there! I'm Dorothea, also known as **TeaC0de**, a beginner coder blending cre
 ---
 
 ## ✨ My Projects
-- [Tinkerbell Cursor](#) 🧚‍♀️: Custom interactive web cursor with animation.  A touch of whimsy for any website!
+- [Tinkerbell Cursor](https://github.com/TeaC0de/CustomCursor) 🧚‍♀️: Custom interactive web cursor with animation.  A touch of whimsy for any website!
 - [Beginner Python Projects](#) 🎮: A mini-game designed for my blog’s [Playful Paradise](#) page, adding an extra touch of whimsy and interactivity.
 - [My Portfolio](#) 📂: A collection of my coding projects, where I showcase the magic behind each creation and the journey of developing them.
 
